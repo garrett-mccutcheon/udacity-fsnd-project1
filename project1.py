@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import psycopg2
-import ipdb
 
 
 def QueryDb(query):
